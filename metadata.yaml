@@ -1,0 +1,43 @@
+_repo: Germana_29640
+_version: 0.1.0
+alternative_title: Germaine. Spanish
+contributor:
+  translator:
+    agent_name: Orts-Ramos, Tomás
+    alias: Orts-Ramos, Tomas
+    birthdate: 1866
+    deathdate: 1939
+    gutenberg_agent_id: '33697'
+    url: http://www.gutenberg.org/2009/agents/33697
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - About, Edmond Francois Valentin
+    - Ampou, Edmondos
+    - About, E. (Edmond)
+    - Avout, Edmondos
+    - Abu, Edmond
+    - About, Edmond François Valentin
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+description: ''
+gutenberg_issued: '2009-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29640'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into Spanish'
+title: Germana
+url: http://www.gutenberg.org/ebooks/29640
